@@ -68,6 +68,7 @@ NEXT_PUBLIC_APP_URL="*"
 
 OPENAI_API_KEY="*"
 OPENAI_MODEL="gpt-4.1-mini"
+OPENAI_BASE_URL="https://api.openai.com/v1/"
 
 E2B_API_KEY="*"
 
